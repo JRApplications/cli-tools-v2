@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Extension Cheats",
+        "type": "category",
+        "url": "/extension-cheats",
+        "items": [
+            {
+                "name": "Page Extension",
+                "type": "page",
+                "url": "/page-extension"
+            }
+        ]
+    }, 
+    {
+        "name": "Examples",
+        "type": "category",
+        "url": "/examples",
+        "items": [
+            {
+                "name": "Hello World Example",
+                "type": "page",
+                "url": "/hello-world"
+            },
+            {
+                "name": "Realtime Example",
+                "type": "page",
+                "url": "/realtime"
+            }
+        ]
+    }
+]
