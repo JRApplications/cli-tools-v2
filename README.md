@@ -1,6 +1,6 @@
 # CLI Tools
 
-  A curated collection of CLI examples to help users learn, explore, and get up and running quickly.
+A curated collection of CLI examples to help users learn, explore, and get up and running quickly.
 
 ---
 
