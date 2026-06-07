@@ -16,7 +16,7 @@ Clone the repository and explore the examples:
 
 ```bash
 git clone https://github.com/JRApplications/cli-tools-v2.git
-cd cli-tools
+cd cli-tools-v2
 ```
 
 Each example lives in its own directory with a dedicated `README.md` explaining what it does and how to run it.
@@ -58,7 +58,3 @@ Contributions are welcome! If you have a useful CLI example to share:
 Please keep examples focused, well-commented, and beginner-friendly.
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
