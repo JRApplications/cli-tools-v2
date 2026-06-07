@@ -30,12 +30,12 @@
                 "name": "Widget Events",
                 "type": "page",
                 "url": "/widget-events"
-            }
+            },
         ]
     },
     {
         "name": "Want to contribute?",
         "type": "page",
         "url": "/CONTRIBUTING"
-    }
+    },
 ]
