@@ -52,8 +52,9 @@ Contributions are welcome! If you have a useful CLI example to share:
 
 1. Fork the repository
 2. Create a new directory under `examples/`
-3. Include a `README.md` and any necessary source files
-4. Open a pull request
+3. Create a `README.md`
+4. Add your example to `menu.json` to include it on the [CLI Tools website](https://joshrobertswebsites.wixstudio.com/cli-tools). If you need help with this step then reach out!
+5. Open a pull request
 
 Please keep examples focused, well-commented, and beginner-friendly.
 
