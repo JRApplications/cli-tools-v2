@@ -4,6 +4,15 @@ Contributions are welcome! If you have a useful example to share, follow the gui
 
 ---
 
+## How to Contribute
+
+1. Fork the repository - [Repo Link](https://github.com/JRApplications/cli-tools-v2)
+2. Create a new branch for your changes
+3. Make your changes — see [Adding an Example](#adding-an-example) below
+4. Open a pull request with a clear description of what you've added
+
+---
+
 ## Structure
 
 ```
@@ -22,11 +31,9 @@ cli-tools/
 
 ## Adding an Example
 
-1. Fork the repository
-2. Create a new directory under the relevant category
-3. Create a `README.md` for your example — see [README Template](#readme-template) below
-4. Add your example to `menu.json` — see [Updating menu.json](#updating-menujson) below
-5. Open a pull request
+1. Create a new directory under the relevant category
+2. Create a `README.md` for your example — see [README Template](#readme-template) below
+3. Add your example to `menu.json` — see [Updating menu.json](#updating-menujson) below
 
 Please keep examples focused, well-commented, and beginner-friendly.
 
