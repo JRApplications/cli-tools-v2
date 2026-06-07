@@ -36,7 +36,7 @@
     {
         "name": "Want to contribute?",
         "type": "page",
-        "url": "/CONTRIBUTING",
+        "url": "/contributing",
         "items": []
     }
 ]
