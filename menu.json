@@ -25,6 +25,11 @@
                 "name": "Realtime Example",
                 "type": "page",
                 "url": "/realtime"
+            },
+            {
+                "name": "Widget Events",
+                "type": "page",
+                "url": "/widget-events"
             }
         ]
     }
