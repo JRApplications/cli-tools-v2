@@ -10,7 +10,7 @@
                 "url": "/page-extension"
             },
             {
-                "name": "Sentry Monitoring Extension"
+                "name": "Sentry Monitoring Extension",
                 "type": "page",
                 "url": "/sentry-monitoring"
             }
