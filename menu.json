@@ -1,5 +1,10 @@
 [
     {
+        "name": "Cheatsheet,
+        "type": "page",
+        "url": "/code-cheats/cheatsheet"
+    },
+    {
         "name": "Extension Cheats",
         "type": "category",
         "url": "/extension-cheats",
