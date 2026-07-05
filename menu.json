@@ -35,10 +35,10 @@
             {
                 "name": "Widget Events",
                 "type": "page",
-                "url": "/widget-events",
+                "url": "/widget-events"
             },
             {
-                "name": "Sentry Monitoring"
+                "name": "Sentry Monitoring",
                 "type": "page",
                 "url": "/sentry-monitoring"
             }
