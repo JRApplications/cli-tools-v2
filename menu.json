@@ -41,6 +41,11 @@
                 "name": "Widget Events",
                 "type": "page",
                 "url": "/widget-events"
+            },
+            {
+                "name": "Sentry Monitoring"
+                "type": "page",
+                "url": "/sentry-monitoring"
             }
         ]
     },
