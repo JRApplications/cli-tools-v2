@@ -41,6 +41,11 @@
                 "name": "Sentry Monitoring",
                 "type": "page",
                 "url": "/sentry-monitoring"
+            },
+            {
+                "name": "Hello Script",
+                "type": "page",
+                "url": "/embedded-script"
             }
         ]
     },
